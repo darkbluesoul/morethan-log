@@ -10,12 +10,12 @@ const CONFIG = {
     github: "darkbluesoul",
     instagram: "",
   },
-  // projects: [
-  //   {
-  //     name: ``,
-  //     href: "",
-  //   },
-  // ],
+  projects: [
+    {
+      name: `Darkblue Soul`,
+      href: "https://www.darkbluesoul.cc",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "Darkblue Soul",
