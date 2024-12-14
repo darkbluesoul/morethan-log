@@ -3,19 +3,19 @@ const CONFIG = {
   profile: {
     name: "Darkblue Soul",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "",
+    role: "T",
     bio: "A messy programming learner.",
     email: "",
     linkedin: "",
     github: "darkbluesoul",
     instagram: "",
   },
-  // projects: [
-  //   {
-  //     name: ``,
-  //     href: "",
-  //   },
-  // ],
+  projects: [
+    {
+      name: ``,
+      href: "",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "Darkblue Soul",
