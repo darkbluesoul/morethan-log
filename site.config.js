@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Darkblue Soul",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
-    bio: "a boring man.",
+    bio: "A messy programming learner.",
     email: "",
     linkedin: "",
     github: "darkbluesoul",
@@ -12,20 +12,20 @@ const CONFIG = {
   },
   projects: [
     {
-      name: ` `,
-      href: " ",
+      name: `Darkblue Soul`,
+      href: "https://www.darkbluesoul.cc",
     },
   ],
   // blog setting (required)
   blog: {
     title: "Darkblue Soul",
-    description: "welcome!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    description: "welcome to Darkblue Soul!",
+    scheme: "light", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  link: "https://blog.darkbluesoul.cc",
+  since: 2021, // If leave this empty, current year will be used.
   lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
